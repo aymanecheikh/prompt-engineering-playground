@@ -1,1 +1,0 @@
-In fallen_angel.md, I used some crazy examples as I wanted to test a few things out. The example prompts are **not** a reflection of how I view my dad. My dad is actually a pretty cool guy :P Just wanted to clarify that in case it gives viewers of this repo the wrong idea.

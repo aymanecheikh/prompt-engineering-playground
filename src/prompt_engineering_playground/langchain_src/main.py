@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 from pydantic import BaseModel
 from langchain_openai import ChatOpenAI
+from langchain.agents import create_agent
 
 load_dotenv()
 
